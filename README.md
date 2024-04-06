@@ -5,6 +5,10 @@
 - [Conferences](#conferences)
   - [Conference Papers 2020-2023](#conference-papers-2020-2023)
 - [Environments](#environments)
+- [Frameworks](#frameworks)
+- [Resources](#resources)
+- [Procedural knowledge and Tips](#procedural-knowledge-and-tips)
+- [Blogs and News](#blogs-and-news)
 
 ***
 
@@ -100,6 +104,7 @@
 | [MAgent2](https://github.com/Farama-Foundation/MAgent2)                                         | ![GitHub last commit](https://img.shields.io/github/last-commit/Farama-Foundation/MAgent2)                     | ![GitHub Repo stars](https://img.shields.io/github/stars/Farama-Foundation/MAgent2)                     |
 | [Stable-Retro](https://github.com/Farama-Foundation/stable-retro)                               | ![GitHub last commit](https://img.shields.io/github/last-commit/Farama-Foundation/stable-retro)                | ![GitHub Repo stars](https://img.shields.io/github/stars/Farama-Foundation/stable-retro)                |
 | [dm_control](https://github.com/google-deepmind/dm_control)                                     | ![GitHub last commit](https://img.shields.io/github/last-commit/google-deepmind/dm_control)                    | ![GitHub Repo stars](https://img.shields.io/github/stars/google-deepmind/dm_control)                    |
+| [BRAX](https://github.com/google/brax)                                                          | ![GitHub last commit](https://img.shields.io/github/last-commit/google/brax)                                   | ![GitHub Repo stars](https://img.shields.io/github/stars/google/brax)                                   |
 | [gym-pybullet-drones](https://github.com/utiasDSL/gym-pybullet-drones)                          | ![GitHub last commit](https://img.shields.io/github/last-commit/utiasDSL/gym-pybullet-drones)                  | ![GitHub Repo stars](https://img.shields.io/github/stars/utiasDSL/gym-pybullet-drones)                  |
 | [Legged GYM](https://github.com/leggedrobotics/legged_gym)                                      | ![GitHub last commit](https://img.shields.io/github/last-commit/leggedrobotics/legged_gym)                     | ![GitHub Repo stars](https://img.shields.io/github/stars/leggedrobotics/legged_gym)                     |
 | [IsaacGym](https://github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs)                                | ![GitHub last commit](https://img.shields.io/github/last-commit/NVIDIA-Omniverse/OmniIsaacGymEnvs)             | ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA-Omniverse/OmniIsaacGymEnvs)             |
@@ -108,3 +113,81 @@
 | [pgx](https://github.com/sotetsuk/pgx)                                                          | ![GitHub last commit](https://img.shields.io/github/last-commit/sotetsuk/pgx)                                  | ![GitHub Repo stars](https://img.shields.io/github/stars/sotetsuk/pgx)                                  |
 | [XLand-MiniGrid](https://github.com/corl-team/xland-minigrid)                                   | ![GitHub last commit](https://img.shields.io/github/last-commit/corl-team/xland-minigrid)                      | ![GitHub Repo stars](https://img.shields.io/github/stars/corl-team/xland-minigrid)                      |
 | [Gigastep](https://github.com/mlech26l/gigastep)                                                | ![GitHub last commit](https://img.shields.io/github/last-commit/mlech26l/gigastep)                             | ![GitHub Repo stars](https://img.shields.io/github/stars/mlech26l/gigastep)                             |
+
+***
+
+## Frameworks
+
+| Repository                                                                                          | Library      | Note                           | Last Commit                                                                                                                   | Stars                                                                                                                  |
+|-----------------------------------------------------------------------------------------------------|--------------|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| [skrl](https://github.com/Toni-SM/skrl)                                                             | PyTorch, JAX | modular                        | ![GitHub last commit](https://img.shields.io/github/last-commit/Toni-SM/skrl)                                                 | ![GitHub Repo stars](https://img.shields.io/github/stars/Toni-SM/skrl)                                                 |
+| [PARL](https://github.com/PaddlePaddle/PARL)                                                        | Paddle       | distributed, industry          | ![GitHub last commit](https://img.shields.io/github/last-commit/PaddlePaddle/PARL)                                            | ![GitHub Repo stars](https://img.shields.io/github/stars/PaddlePaddle/PARL)                                            |
+| [MushroomRL](https://github.com/MushroomRL/mushroom-rl)                                             | PyTorch      | modular                        | ![GitHub last commit](https://img.shields.io/github/last-commit/MushroomRL/mushroom-rl)                                       | ![GitHub Repo stars](https://img.shields.io/github/stars/MushroomRL/mushroom-rl)                                       |
+| [coax](https://github.com/coax-dev/coax)                                                            | haiku        | modular                        | ![GitHub last commit](https://img.shields.io/github/last-commit/coax-dev/coax)                                                | ![GitHub Repo stars](https://img.shields.io/github/stars/coax-dev/coax)                                                |
+| [DRL with PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch) | PyTorch      | research                       | ![GitHub last commit](https://img.shields.io/github/last-commit/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch) | ![GitHub Repo stars](https://img.shields.io/github/stars/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch) |
+| [Trax](https://github.com/google/trax)                                                              | JAX          | fast                           | ![GitHub last commit](https://img.shields.io/github/last-commit/google/trax)                                                  | ![GitHub Repo stars](https://img.shields.io/github/stars/google/trax)                                                  |
+| [CleanRL](https://github.com/vwxyzjn/cleanrl)                                                       | PyTorch, JAX | single file                    | ![GitHub last commit](https://img.shields.io/github/last-commit/vwxyzjn/cleanrl)                                              | ![GitHub Repo stars](https://img.shields.io/github/stars/vwxyzjn/cleanrl)                                              |
+| [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3)                                    | PyTorch      | modular                        | ![GitHub last commit](https://img.shields.io/github/last-commit/DLR-RM/stable-baselines3)                                     | ![GitHub Repo stars](https://img.shields.io/github/stars/DLR-RM/stable-baselines3)                                     |
+| [Stable Baselines Jax](https://github.com/araffin/sbx)                                              | JAX          | modular, fast                  | ![GitHub last commit](https://img.shields.io/github/last-commit/araffin/sbx)                                                  | ![GitHub Repo stars](https://img.shields.io/github/stars/araffin/sbx)                                                  | 
+| [PyMARL2](https://github.com/hijkzzz/pymarl2)                                                       | JAX          | multi-agent                    | ![GitHub last commit](https://img.shields.io/github/last-commit/hijkzzz/pymarl2)                                              | ![GitHub Repo stars](https://img.shields.io/github/stars/hijkzzz/pymarl2)                                              | 
+| [tinkoff-ai/CORL](https://github.com/tinkoff-ai/CORL)                                               | JAX          | singe file, offline RL         | ![GitHub last commit](https://img.shields.io/github/last-commit/tinkoff-ai/CORL)                                              | ![GitHub Repo stars](https://img.shields.io/github/stars/tinkoff-ai/CORL)                                              | 
+| [corl-team/CORL](https://github.com/corl-team/CORL)                                                 | JAX          | singe file, offline RL         | ![GitHub last commit](https://img.shields.io/github/last-commit/corl-team/CORL)                                               | ![GitHub Repo stars](https://img.shields.io/github/stars/corl-team/CORL)                                               | 
+| [JaxMARL](https://github.com/FLAIROx/JaxMARL)                                                       | JAX          | singe file, multi-agent        | ![GitHub last commit](https://img.shields.io/github/last-commit/FLAIROx/JaxMARL)                                              | ![GitHub Repo stars](https://img.shields.io/github/stars/FLAIROx/JaxMARL)                                              |
+| [DI-engine](https://github.com/opendilab/DI-engine)                                                 | PyTorch      | industry                       | ![GitHub last commit](https://img.shields.io/github/last-commit/opendilab/DI-engine)                                          | ![GitHub Repo stars](https://img.shields.io/github/stars/opendilab/DI-engine)                                          |
+| [RLtools](https://github.com/rl-tools/rl-tools)                                                     | C++          | industry, fast                 | ![GitHub last commit](https://img.shields.io/github/last-commit/rl-tools/rl-tools)                                            | ![GitHub Repo stars](https://img.shields.io/github/stars/rl-tools/rl-tools)                                            |
+| [MiniZero](https://github.com/rlglab/minizero)                                                      | C++          | research                       | ![GitHub last commit](https://img.shields.io/github/last-commit/rlglab/minizero)                                              | ![GitHub Repo stars](https://img.shields.io/github/stars/rlglab/minizero)                                              |
+| [DRLib](https://github.com/kaixindelele/DRLib)                                                      | PyTorch      | research                       | ![GitHub last commit](https://img.shields.io/github/last-commit/kaixindelele/DRLib)                                           | ![GitHub Repo stars](https://img.shields.io/github/stars/kaixindelele/DRLib)                                           |
+| [Mava](https://github.com/instadeepai/Mava)                                                         | Jax          | distributed, multi-agent, fast | ![GitHub last commit](https://img.shields.io/github/last-commit/instadeepai/Mava)                                             | ![GitHub Repo stars](https://img.shields.io/github/stars/instadeepai/Mava)                                             |
+| [MINIMAX](https://github.com/facebookresearch/minimax)                                              | Jax          | UED, auto-curricula            | ![GitHub last commit](https://img.shields.io/github/last-commit/facebookresearch/minimax)                                     | ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/minimax)                                     |
+| [Pearl](https://github.com/facebookresearch/Pearl)                                                  | PyTorch      | industry                       | ![GitHub last commit](https://img.shields.io/github/last-commit/facebookresearch/Pearl)                                       | ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/Pearl)                                       |
+| [PureJaxRL](https://github.com/luchris429/purejaxrl)                                                | Jax          | fast, research                 | ![GitHub last commit](https://img.shields.io/github/last-commit/luchris429/purejaxrl)                                         | ![GitHub Repo stars](https://img.shields.io/github/stars/luchris429/purejaxrl)                                         |
+| [RL4CO](https://github.com/ai4co/rl4co)                                                             | PyTorch      | research, CO                   | ![GitHub last commit](https://img.shields.io/github/last-commit/ai4co/rl4co)                                                  | ![GitHub Repo stars](https://img.shields.io/github/stars/ai4co/rl4co)                                                  |
+| [Rofunc](https://github.com/Skylark0924/Rofunc)                                                     | PyTorch      | Robotics, research             | ![GitHub last commit](https://img.shields.io/github/last-commit/Skylark0924/Rofunc)                                           | ![GitHub Repo stars](https://img.shields.io/github/stars/Skylark0924/Rofunc)                                           |
+| [RLX](https://github.com/noahfarr/rlx)                                                              | MLX          | Apple silicon                  | ![GitHub last commit](https://img.shields.io/github/last-commit/noahfarr/rlx)                                                 | ![GitHub Repo stars](https://img.shields.io/github/stars/noahfarr/rlx)                                                 |
+| [SheepRL](https://github.com/Eclectic-Sheep/sheeprl)                                                | PyTorch      | research, industry             | ![GitHub last commit](https://img.shields.io/github/last-commit/Eclectic-Sheep/sheeprl)                                       | ![GitHub Repo stars](https://img.shields.io/github/stars/Eclectic-Sheep/sheeprl)                                       |
+| [TorchRL](https://github.com/pytorch/rl)                                                            | PyTorch      | modular                        | ![GitHub last commit](https://img.shields.io/github/last-commit/pytorch/rl)                                                   | ![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/rl)                                                   |
+| [MctX](https://github.com/google-deepmind/mctx)                                                     | Jax          | fast, research                 | ![GitHub last commit](https://img.shields.io/github/last-commit/google-deepmind/mctx)                                         | ![GitHub Repo stars](https://img.shields.io/github/stars/google-deepmind/mctx)                                         |
+| [DiffRL](https://github.com/NVlabs/DiffRL)                                                          | PyTorch      | distributed, research          | ![GitHub last commit](https://img.shields.io/github/last-commit/NVlabs/DiffRL)                                                | ![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/DiffRL)                                                |
+| [RLLTE](https://github.com/RLE-Foundation/rllte)                                                    | PyTorch      | distributed, industry          | ![GitHub last commit](https://img.shields.io/github/last-commit/RLE-Foundation/rllte)                                         | ![GitHub Repo stars](https://img.shields.io/github/stars/RLE-Foundation/rllte)                                         |
+| [Flashbax](https://github.com/instadeepai/flashbax)                                                 | Jax          | fast, replay buffer            | ![GitHub last commit](https://img.shields.io/github/last-commit/instadeepai/flashbax)                                         | ![GitHub Repo stars](https://img.shields.io/github/stars/instadeepai/flashbax)                                         |
+| [d3rlpy](https://github.com/takuseno/d3rlpy)                                                        | PyTorch      | offline RL, modular            | ![GitHub last commit](https://img.shields.io/github/last-commit/takuseno/d3rlpy)                                              | ![GitHub Repo stars](https://img.shields.io/github/stars/takuseno/d3rlpy)                                              |
+| [JaxIRL](https://github.com/FLAIROx/jaxirl)                                                         | Jax          | inverse RL                     | ![GitHub last commit](https://img.shields.io/github/last-commit/FLAIROx/jaxirl)                                               | ![GitHub Repo stars](https://img.shields.io/github/stars/FLAIROx/jaxirl)                                               |
+| [Imitation](https://github.com/HumanCompatibleAI/imitation)                                         | PyTorch      | imitation learning             | ![GitHub last commit](https://img.shields.io/github/last-commit/HumanCompatibleAI/imitation)                                  | ![GitHub Repo stars](https://img.shields.io/github/stars/HumanCompatibleAI/imitation)                                  |
+
+***
+
+## Resources
+
+- [Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/the-book.html)
+- [Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions)
+- [Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+![GitHub last commit](https://img.shields.io/github/last-commit/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+![GitHub Repo stars](https://img.shields.io/github/stars/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+- [Learning Reinforcement Learning · Denny's Blog](https://dennybritz.com/posts/wildml/learning-reinforcement-learning/)
+- [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
+- [HuggingFace Depp RL Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
+- [RL Course by David Silver](https://www.davidsilver.uk/teaching/)
+- [RL Course by Sergey Levine](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
+- [Berkeley’s Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+- [Berkeley’s Deep RL Course](https://rail.eecs.berkeley.edu/deeprlcourse/)
+- [Dive in to Deep Learning](https://d2l.ai/)
+- [AI for Beginners](https://microsoft.github.io/AI-For-Beginners/)
+- [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/)
+- [ML for Beginners](https://microsoft.github.io/ML-For-Beginners/)
+- [Practical Deep Learning for Coders](https://course.fast.ai/)
+- [Machine Learning Curriculum](https://github.com/offchan42/machine-learning-curriculum)
+![GitHub last commit](https://img.shields.io/github/last-commit/offchan42/machine-learning-curriculum)
+![GitHub Repo stars](https://img.shields.io/github/stars/offchan42/machine-learning-curriculum)
+
+***
+
+## Procedural knowledge and Tips
+
+- [RL Tips and Tricks — Stable Baselines3](https://stable-baselines3.readthedocs.io/en/master/guide/rl_tips.html)
+- [RL Baselines3 Zoo](https://github.com/DLR-RM/rl-baselines3-zoo)
+
+***
+
+## Blogs and News
+- [Lil'Log](https://lilianweng.github.io/)
+- [ML news of the week](https://github.com/SalvatoreRa/ML-news-of-the-week) ![GitHub last commit](https://img.shields.io/github/last-commit/SalvatoreRa/ML-news-of-the-week)
