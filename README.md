@@ -161,8 +161,8 @@
 - [Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/the-book.html)
 - [Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions)
 - [Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
-![GitHub last commit](https://img.shields.io/github/last-commit/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
-![GitHub Repo stars](https://img.shields.io/github/stars/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
 - [Learning Reinforcement Learning · Denny's Blog](https://dennybritz.com/posts/wildml/learning-reinforcement-learning/)
 - [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
 - [HuggingFace Depp RL Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
@@ -176,8 +176,8 @@
 - [ML for Beginners](https://microsoft.github.io/ML-For-Beginners/)
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
 - [Machine Learning Curriculum](https://github.com/offchan42/machine-learning-curriculum)
-![GitHub last commit](https://img.shields.io/github/last-commit/offchan42/machine-learning-curriculum)
-![GitHub Repo stars](https://img.shields.io/github/stars/offchan42/machine-learning-curriculum)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/offchan42/machine-learning-curriculum)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/offchan42/machine-learning-curriculum)
 
 ***
 
@@ -185,9 +185,19 @@
 
 - [RL Tips and Tricks — Stable Baselines3](https://stable-baselines3.readthedocs.io/en/master/guide/rl_tips.html)
 - [RL Baselines3 Zoo](https://github.com/DLR-RM/rl-baselines3-zoo)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/DLR-RM/rl-baselines3-zoo)
+- [Gradient Flow - Borealis AI](https://www.borealisai.com/research-blogs/gradient-flow/)
+- [How to Make Sense of the Reinforcement Learning Agents? What and Why I Log During Training and Debug - neptune.ai](https://neptune.ai/blog/reinforcement-learning-agents-training-debug)
+- [How to Manage a Deep Reinforcement Learning Research Team: Part 1 - neptune.ai](https://neptune.ai/blog/how-to-manage-a-deep-reinforcement-learning-research-team-part-1)
+- [How To Manage a Deep Reinforcement Learning Research Team: Part 2 - neptune.ai](https://neptune.ai/blog/how-to-manage-a-deep-reinforcement-learning-research-team-part-2-fractal-nature-of-creative-work)
+- [How to Structure, Organize, Track and Manage RL Projects - neptune.ai](https://neptune.ai/blog/how-to-structure-organize-track-and-manage-reinforcement-learning-rl-projects)
+- [Logging in Reinforcement Learning Frameworks - neptune.ai](https://neptune.ai/blog/logging-in-reinforcement-learning-frameworks)
 
 ***
 
 ## Blogs and News
 - [Lil'Log](https://lilianweng.github.io/)
 - [ML news of the week](https://github.com/SalvatoreRa/ML-news-of-the-week) ![GitHub last commit](https://img.shields.io/github/last-commit/SalvatoreRa/ML-news-of-the-week)
+- [Blog - neptune.ai](https://neptune.ai/blog/category/reinforcement-learning)
+- [Blog - Borealis AI](https://www.borealisai.com/blog/)
+- [Blog - Google DeepMind](https://deepmind.google/discover/blog/)
