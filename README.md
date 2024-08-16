@@ -1,14 +1,18 @@
-# Awesome Reinforcement Learning Research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Reinforcement Learning Research
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Contents
 
-- [Conferences](#conferences)
-  - [Conference Papers 2020-2023](#conference-papers-2020-2023)
-- [Environments](#environments)
-- [Frameworks](#frameworks)
-- [Resources](#resources)
-- [Procedural knowledge and Tips](#procedural-knowledge-and-tips)
-- [Blogs and News](#blogs-and-news)
+- [Awesome Reinforcement Learning Research](#awesome-reinforcement-learning-research)
+  - [Contents](#contents)
+  - [Conferences](#conferences)
+    - [Conference Papers 2020-2023](#conference-papers-2020-2023)
+  - [Environments](#environments)
+  - [Frameworks](#frameworks)
+  - [Resources](#resources)
+  - [Procedural knowledge and Tips](#procedural-knowledge-and-tips)
+  - [Blogs and News](#blogs-and-news)
 
 ***
 
@@ -128,10 +132,10 @@
 | [Trax](https://github.com/google/trax)                           | JAX          | fast                           | ![GitHub last commit](https://img.shields.io/github/last-commit/google/trax)                 | ![GitHub Repo stars](https://img.shields.io/github/stars/google/trax)                 |
 | [CleanRL](https://github.com/vwxyzjn/cleanrl)                    | PyTorch, JAX | single file                    | ![GitHub last commit](https://img.shields.io/github/last-commit/vwxyzjn/cleanrl)             | ![GitHub Repo stars](https://img.shields.io/github/stars/vwxyzjn/cleanrl)             |
 | [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3) | PyTorch      | modular                        | ![GitHub last commit](https://img.shields.io/github/last-commit/DLR-RM/stable-baselines3)    | ![GitHub Repo stars](https://img.shields.io/github/stars/DLR-RM/stable-baselines3)    |
-| [Stable Baselines JAX](https://github.com/araffin/sbx)           | JAX          | modular, fast                  | ![GitHub last commit](https://img.shields.io/github/last-commit/araffin/sbx)                 | ![GitHub Repo stars](https://img.shields.io/github/stars/araffin/sbx)                 | 
-| [PyMARL2](https://github.com/hijkzzz/pymarl2)                    | JAX          | multi-agent                    | ![GitHub last commit](https://img.shields.io/github/last-commit/hijkzzz/pymarl2)             | ![GitHub Repo stars](https://img.shields.io/github/stars/hijkzzz/pymarl2)             | 
-| [tinkoff-ai/CORL](https://github.com/tinkoff-ai/CORL)            | JAX          | singe file, offline RL         | ![GitHub last commit](https://img.shields.io/github/last-commit/tinkoff-ai/CORL)             | ![GitHub Repo stars](https://img.shields.io/github/stars/tinkoff-ai/CORL)             | 
-| [corl-team/CORL](https://github.com/corl-team/CORL)              | JAX          | singe file, offline RL         | ![GitHub last commit](https://img.shields.io/github/last-commit/corl-team/CORL)              | ![GitHub Repo stars](https://img.shields.io/github/stars/corl-team/CORL)              | 
+| [Stable Baselines JAX](https://github.com/araffin/sbx)           | JAX          | modular, fast                  | ![GitHub last commit](https://img.shields.io/github/last-commit/araffin/sbx)                 | ![GitHub Repo stars](https://img.shields.io/github/stars/araffin/sbx)                 |
+| [PyMARL2](https://github.com/hijkzzz/pymarl2)                    | JAX          | multi-agent                    | ![GitHub last commit](https://img.shields.io/github/last-commit/hijkzzz/pymarl2)             | ![GitHub Repo stars](https://img.shields.io/github/stars/hijkzzz/pymarl2)             |
+| [tinkoff-ai/CORL](https://github.com/tinkoff-ai/CORL)            | JAX          | singe file, offline RL         | ![GitHub last commit](https://img.shields.io/github/last-commit/tinkoff-ai/CORL)             | ![GitHub Repo stars](https://img.shields.io/github/stars/tinkoff-ai/CORL)             |
+| [corl-team/CORL](https://github.com/corl-team/CORL)              | JAX          | singe file, offline RL         | ![GitHub last commit](https://img.shields.io/github/last-commit/corl-team/CORL)              | ![GitHub Repo stars](https://img.shields.io/github/stars/corl-team/CORL)              |
 | [JaxMARL](https://github.com/FLAIROx/JaxMARL)                    | JAX          | singe file, multi-agent        | ![GitHub last commit](https://img.shields.io/github/last-commit/FLAIROx/JaxMARL)             | ![GitHub Repo stars](https://img.shields.io/github/stars/FLAIROx/JaxMARL)             |
 | [DI-engine](https://github.com/opendilab/DI-engine)              | PyTorch      | industry                       | ![GitHub last commit](https://img.shields.io/github/last-commit/opendilab/DI-engine)         | ![GitHub Repo stars](https://img.shields.io/github/stars/opendilab/DI-engine)         |
 | [RLtools](https://github.com/rl-tools/rl-tools)                  | C++          | industry, fast                 | ![GitHub last commit](https://img.shields.io/github/last-commit/rl-tools/rl-tools)           | ![GitHub Repo stars](https://img.shields.io/github/stars/rl-tools/rl-tools)           |
@@ -196,6 +200,7 @@
 ***
 
 ## Blogs and News
+
 - [Lil'Log](https://lilianweng.github.io/)
 - [ML news of the week](https://github.com/SalvatoreRa/ML-news-of-the-week) ![GitHub last commit](https://img.shields.io/github/last-commit/SalvatoreRa/ML-news-of-the-week)
 - [Blog - neptune.ai](https://neptune.ai/blog/category/reinforcement-learning)
